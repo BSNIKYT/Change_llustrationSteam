@@ -1,0 +1,18 @@
+{
+    "data": [
+        {
+            "login": "YOURLOGIN1",
+            "password": "",
+            "offline": false,
+            "ignore_all_warnings_pictures": true,
+            "reconnect": true
+        },
+        {
+            "login": "YOURLOGIN2",
+            "password": "",
+            "offline": false,
+            "ignore_all_warnings_pictures": true,
+            "reconnect": true
+        }
+    ]
+}
